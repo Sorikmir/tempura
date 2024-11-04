@@ -1,0 +1,28 @@
+.header,
+.content,
+.footer {
+    width: 1100px;
+    margin: 0 auto ;
+}
+.header li{
+        text-transform: uppercase;
+        list-style: none;
+        display: inline;
+        margin: 10px;
+        font-family: Arial;
+        font-weight: 800;
+}
+.header li a {
+    color: black;
+    text-decoration: none;
+}
+
+.header li a:hover {
+    color: grey;
+}
+.logo-block {
+width: 176px;
+}
+.logo-block img {
+    width: 100%;
+}
