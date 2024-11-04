@@ -26,3 +26,6 @@ width: 176px;
 .logo-block img {
     width: 100%;
 }
+.menu{
+    padding-inline-start: 0;
+}
