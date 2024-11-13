@@ -29,3 +29,10 @@ width: 176px;
 .menu{
     padding-inline-start: 0;
 }
+.navigation{
+    display: flex;
+    align-items: center;
+}
+form{
+    float: left;
+}
